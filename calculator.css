@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #e3f2fd;
+    background: #e3f2fd;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,7 +26,7 @@ body {
     transition: background-color 0.3s, box-shadow 0.3s;
 }
 .buttons1 button:hover {
-    background-color: #;
+    background-color: #gray;
 }
 #display{
     display:block;
