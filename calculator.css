@@ -26,7 +26,7 @@ body {
     transition: background-color 0.3s, box-shadow 0.3s;
 }
 .buttons1 button:hover {
-    background-color: gray;
+    background-color: #6f7578;
 }
 #display{
     display:block;
